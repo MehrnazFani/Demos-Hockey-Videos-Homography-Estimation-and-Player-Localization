@@ -8,6 +8,6 @@ each frame of the broadcast hockey video and the top-view NHL template of the ic
 </p>
 
 <p align="center">
-  <img width="600" src="" alt="Player Localization"/>      
+  <img width="600" src="https://github.com/MehrnazFani/Demos-Hockey-Videos-Homography-Estimation-and-Player-Localization/blob/2abf259499a9e701c8d0ee1c99869236b65f675b/images/Player-Localization-Calgary-Flame.gif" alt="Player Localization"/>      
 </p>
 
