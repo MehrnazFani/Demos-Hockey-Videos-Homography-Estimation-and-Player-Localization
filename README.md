@@ -4,7 +4,7 @@ https://doi.org/10.48550/arXiv.2104.10847) that estimates the homography of the 
 each frame of the broadcast hockey video and the top-view NHL template of the ice-rink.
 
 <p align="center">
-  <img width="600" src="" alt="Homography Estimation"/>      
+  <img width="600" src="https://github.com/MehrnazFani/Demos-Hockey-Videos-Homography-Estimation-and-Player-Localization/blob/e60d31f6aedfcdf32570510dc47f7c929b89b20d/images/ice-rink-localization-Calgary-Flame.gif" alt="Homography Estimation"/>      
 </p>
 
 <p align="center">
